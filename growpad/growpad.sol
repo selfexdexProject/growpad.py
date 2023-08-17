@@ -39,6 +39,7 @@ contract Growpad {
     function getContributionOf(address contributor) external view returns (uint256) {
         return contributions[contributor];
     }
+}
 
     function getTotalContributions() external view returns (uint256) {
         return totalContributions;
