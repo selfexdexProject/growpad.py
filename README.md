@@ -1,7 +1,7 @@
 # growpad.py
 
 
-Sure, here's a sample readme.md file for the given Solidity contract:
+
 
 Growpad Smart Contract
 Growpad is a Solidity smart contract that enables users to make contributions and track their total contributions. It allows an owner to withdraw funds from the contract while maintaining transparency and accountability. The contract is designed to facilitate secure and decentralized fundraising.
