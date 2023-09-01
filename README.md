@@ -15,6 +15,7 @@ Owner: The address that deployed the contract is set as the owner.
 Contributions: A mapping of user addresses to the amount of Ether they have contributed.
 Total Contributions: A running total of the Ether contributed by all users.
 Events: Two events are emitted during contract execution - Contributed when a user contributes funds, and Withdrew when the owner withdraws funds.
+
 Usage
 Deploy the contract on the Ethereum blockchain.
 The contract owner can use the contribute function to contribute Ether to the contract.
