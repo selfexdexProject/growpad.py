@@ -14,6 +14,7 @@ Events: Two events are emitted during contract execution - Contributed when a us
 Usage
 
 Deploy the contract on the Ethereum blockchain.
+
 The contract owner can use the contribute function to contribute Ether to the contract.
 Users can use the contribute function to contribute Ether to the contract.
 The contract owner can use the withdraw function to withdraw a specific amount of Ether from the contract balance.
